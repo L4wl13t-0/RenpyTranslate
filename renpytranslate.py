@@ -1,4 +1,5 @@
 import os, re
+from mtranslate import translate
 
 os.system('cls' if os.name == 'nt' else 'clear')
 A = '''
@@ -42,3 +43,26 @@ if number == 1:
     f.write('\n'.join(dialogs))
     f.close
     print("\n(*) Successfully extracted dialogues.")
+
+elif number == 2:
+    archive = str(input("\n(*) File to extract data(with the extension): "))
+
+    language = int(input("\n(*) Choose the number of the language to which you want to translate:\n    1. Spanish\n    2. English\n    3. Russian\n(*) Number: "))
+
+    file = open(archive, 'r')
+    message = file.read()
+    if language == 1:
+        messagetrs = translate(message, 'es', 'auto')
+    elif language == 2:
+        messagetrs = translate(message, 'en', 'auto')
+    elif language == 3:
+        messagetrs = translate(message, 'ru', 'auto')
+    else:
+        None
+
+    output = str(input("\n(*) Write the name of the output file: "))
+    trs = open(output, 'w')
+    trs.write(messagetrs)
+    trs.close()
+    file.close()
+    print("\n(*) Successful translation of dialogues.")
