@@ -24,8 +24,7 @@ print(A+"\n")
 print("(*) Choose the number of the operation to perform:")
 print("    1. Extract the dialogs from a .rpy file.")
 print("    2. Translate the dialogues of an already extracted file.")
-print("    3. Directly extract and translate the dialogues. (1 - 2)")
-print("    4. Exit.")
+print("    3. Exit.")
 
 number = int(input("\n(*) Number: "))
 
@@ -66,3 +65,6 @@ elif number == 2:
     trs.close()
     file.close()
     print("\n(*) Successful translation of dialogues.")
+
+else:
+    None
