@@ -1,0 +1,50 @@
+You think things are bad for you now? They will get a lot worse if you fail or are expelled again.
+This is your last warning Cassandra. Bend over the desk.
+Fuck.
+Very good.
+Hey don't laugh at me!
+Is that a thong you are wearing Cassandra?
+Yeah so what?!
+Why must you girls insist on disregarding the uniform policy?
+What does it matter?!
+It shows you have respect for the rules. Even in ways that cannot normally be seen.
+I think we have to come up with some stricter rules regarding the uniform policy.
+For now though we have more important matters to attend to.
+Miss Newman. If you would please teach this young lady some manners.
+Perhaps then the lesson can continue uninterrupted.
+Yes, Mr [surname].
+OK Cassandra, you must know by know all girls who are to receive corporal punishment must remove their skirts.
+My skirt? You mean in front of class and everything?!
+Oh yes. Your classmates need to know what happens to naughty girls who misbehave.
+Now take your clothes off before I have Miss Newman remove them for you.
+This is so unfair.
+Very good young lady. Now bend over the desk for your spanking.
+You make an example of Cassandra and the girls learn the price of bad behaviour. {color=#ba1f1f}Discipline{/color} +2.
+You make an example of Cassandra by having her spanked without her skirt on. The girls learn the price of bad behaviour {color=#ba1f1f}Discipline{/color} +3.
+You arrive at your classroom early only to find Amy there already.
+Amy. I'm glad to see you've finally learned to get to your lesson on time.
+Yes sir! I made a real effort to leave the gym as quickly as possible.
+So quickly that you forgot your tie?
+Oops... I can run back and get it.
+No, then you'll miss the start of the lesson.
+I'll let you off just this once but don't forget your tie again.
+No sir. Thank you sir.
+You go on to teach your entire lesson with no interruptions. {color=#51ae69}Grades{/color} +2.
+I'm sorry Amy but you know we have a strict uniform policy at this school. See me in my office this afternoon for punishment.
+Yes, Mr [surname].
+You go on to teach your entire lesson with no interruptions. {color=#51ae69}Grades{/color} +2.
+You had just started teaching your class when you are interrupted by a latecomer.
+Amy, what time do you think this is?
+I'm sorry sir, I was...
+I don't want excuses girl. Tardiness is not acceptable and where is your tie?
+Oh I must have left it in the changing rooms.
+I will need to speak to you about this behaviour Miss Street. Report to my office after lessons.
+Yes, sir. Sorry sir.
+You resolve to deal with the trouble maker in your class after school. The girls settle down and you're able to complete your lesson. {color=#51ae69}Grades{/color} +1.
+Late again Amy?!
+Sorry sir I came as fast as I could.
+Clearly that is not the case and once again you are not wearing your tie. You must be punished for this behaviour.
+As you are already seeing me in my office this evening I will have to punish you now.
+I'll give you a warning this time Amy. Don't be late again.
+Thank you sir!
+You decide to let it slide this one time. The girls appreciate you being lenient {color=#545dbd}Popularity{/color} + 1. However, this sets a very bad example {color=#ba1f1f}Discipline{/color} -1.

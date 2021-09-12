@@ -1,0 +1,50 @@
+I just like to have it with me.
+Let me see it.
+She's right. There's no lighter fluid. Right now it's just a harmless piece of metal.
+It's old and finely engraved. I can see this being something precious.
+Please can I have it back, sir?
+Yes. Fine. I won't take a harmless keepsake from your grandfather.
+Thank you, sir.
+OK, well you don't have any drugs on you at least.
+You can get dressed now and go Nina. Think yourself lucky I'm not punishing you for trying to conceal something from me.
+Yes sir. Thank you sir.
+You let Nina keep a precious heirloom from her grandfather despite it being a banned item. {color=#545dbd}Popularity{/color} +2, {color=#ba1f1f}Discipline{/color} -1.
+Sorry Nina, but I can't allow something like this in school.
+I will keep this safe in the desk drawer in my office until the end of the year.
+Don't worry. It will be safe in my possession.
+Sir please...
+Sorry Nina. Rules are rules.
+You can get dressed now and go. Think yourself lucky I'm not punishing you for trying to conceal something from me.
+Lucky? I don't feel lucky.
+You took away Nina's treasured heirloom from her grandfather. {color=#545dbd}Popularity{/color} -1, {color=#ba1f1f}Discipline{/color} +2.
+Sorry Nina, but I'm going to need to search you again.
+OK, but can we go to the stationary cupboard?
+Of course. Let's go.
+Yeah right.
+Let's have your shirt and tie please.
+Now your shoes, socks and skirt.
+Alright, you can see I don't have anything. Can I go?
+No Nina. I know young women like to hide things in their underwear.
+I would be failing in my job not to check those too.
+Really though, sir, you can see I don't have anything hidden in them.
+Take them off, Nina. It would be a shame to have to give you a body search after all.
+Fine, but I'm turing away.
+I'm naked, you can see I'm not hiding anything. Can I have my clothes back now, please?
+Don't worry I wont take your light from you.
+OK then.
+Alight Nina, good girl. You've got no drugs on your person.
+You can get dressed and go now.
+Yes sir.
+Sorry, Nina, but you do need to show me everything.
+You already took my grandfathers lighter. What else fo you want from me?
+Alight Nina, good girl. You've got no drugs on your person.
+You can get dressed and go now.
+Yes sir.
+As you were, Nina. I'll see you in class.
+Good morning girls.
+Good morning, Mr [surname].
+Doing a spot of football practice?
+Yes sir.
+I hope you two aren't planning any more tricks?
+No sir.
+And you, Louise?

@@ -1,0 +1,50 @@
+The girls notice you looking up their skirts.
+They all run off. {color=#545dbd}Popularity{/color} -1.
+Whilst patrolling the halls you find Debbie bullying Lucy.
+How should you respond?
+Debbie Harris. What do you think you're playing at?
+What? Nothing.
+I saw you shove Lucy up against the locker.
+Report to my office after school. I'll deal with you then.
+Now all of you, get going to lessons.
+You're a little snitch Lucy and I'm going to teach you a lesson. Turn around.
+Oooofff.
+You shouldn't have ratted me out to the headmaster.
+Debbie stop it. What are you doing?
+Ouch!!!
+Now get in your locker and think about what you've done.
+Wait Debbie...
+Come on Cass.
+Wow, that was pretty harsh. I'd better check that Lucy is OK.
+Hello, is anybody out there...
+Lucy?
+Oh hello headmaster. I seem to have fallen into my locker could you help me out?
+Sure thing.
+Oh my. Are you OK in there Lucy?
+Um, yeah. I'm fine.
+Who did this to you, was it Debbie?
+Um, no. I just fell.
+You fell into that position?
+Yes sir.
+Hmmm... I can't reveal I watched the whole thing and did nothing. I guess Debbie will get away it.
+Oh well, lets get you out of there.
+Are you sure you're OK Lucy? Let me take you to the nurse's office.
+Thank you sir but I'm fine. I'll just get going.
+Lucy was grateful for you rescuing her from the locker but Debbie got away with her bad behaviour. {color=#545dbd}Popularity{/color} +1 {color=#ba1f1f}Discipline{/color} -2.
+Hi girls, what are you up to?
+Hello headmaster. We're working on a project Miss Chang set us.
+Fantastic. It's good to see you girls working hard.
+Well don't let me stop you studying, see you later girls.
+Girls" "Bye sir.
+Girls" "
+You leave the girls to work on their project {color=#51ae69}Grades{/color} +1.
+Well since there are so many of you in the same place it will be a good time to perform a uniform inspection.
+Stand up and lift your skirts.
+What really?!
+Yes. You should know the rules by now. Stand up.
+Now lift those skirts and keep them up until I have a chance to inspect your underwear.
+The girls obediently lift their skirts realising that they have no choice but to obey your rules. {color=#ba1f1f}Discipline{/color} +1. However, you interrupted their study session and their {color=#51ae69}Grades{/color} have not improved.
+A girl is sat on her own crying. What do you do?
+Girls cry all the time. This is hardly your concern.
+You sit with the girl and try to comfort her.
+She feels a little better. {color=#545dbd}Popularity{/color} +1.

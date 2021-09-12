@@ -1,5 +1,4 @@
 import os, re
-from mtranslate import translate
 from googletrans import Translator
 
 os.system('cls' if os.name == 'nt' else 'clear')

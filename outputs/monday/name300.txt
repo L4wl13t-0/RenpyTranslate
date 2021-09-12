@@ -1,0 +1,50 @@
+So you say but I will need to check.
+Look see, I've got no knickers on.
+Hmmm... OK then I guess you were telling the truth.
+OK run along now Alice. Don't let me catch you in these again.
+You caught a girl breaking the uniform policy and confiscated her underwear. Discipline +1.
+Go and change your underwear. You're lucky the school's rules are still so lenient and I can't confiscate them off you now.
+You caught a girl breaking the uniform policy and told her to go and change. Discipline +1.
+Be seeing you Alice.
+Bye sir.
+Girls chat here
+Girls chat here
+Shall I spend the afternoon patrolling the halls?
+Wednesday Evening
+It's too late in the day to be doing paperwork.
+Hmmmm... There seems to be a code on the door. I can't open it.
+No doubt this was Ruth's idea.
+Good evening Izzy.
+Good evening sir.
+Well, nice to meet you Izzy. I'll see you around I'm sure.
+The pool is still under construction. I should check back in a few days.
+The swimming pool seems to still be under construction. I'll need to save up to repair it.
+Good evening girls.
+Good evening sir.
+Are you joining the sports lesson?
+No sir, we just had a class with Miss Newman. We need to head to maths class now.
+No problem girls, don't let me keep you.
+Its too late to teach a class.
+Girls chat here.
+Girls chat here
+Its late and the classroom is empty.
+Its late and the classroom is empty.
+Its late and the classroom is empty.
+Stop there please. Men are not allowed to enter the bedroom area.
+Right, yes. Of course.
+Should I sneak around back and check up the girls behaviour?
+{i}Oh it's the twins.{/i}
+Good evening you two.
+Good evening headmaster.
+What show are you watching?
+We're not watching a TV show. We're just watching cat videos on the internet.
+Huh, kids these days. Well don't let me keep you.
+Good night Mr [surname].
+It's late. I should head home to bed.
+A girl is expecting to be punished in your office. Do you want to skip to the punishment or skip to the next day (this will cancel the punishment)?
+[weekday] Morning
+Shall I spend the morning catching up on paperwork?
+Hmmmm... There seems to be a code on the door. I can't open it.
+No doubt this was Ruth's idea.
+Good morning Izzy.
+Good morning sir.
